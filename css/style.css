@@ -1,0 +1,122 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Courgette', cursive;
+}
+
+nav li a{
+	font-size: 24px;
+	color: black;font-weight: 600;
+	 font-family: cursive;
+}
+
+
+nav a img
+ {   position: relative;
+    height: 100px;
+    width: 100px;
+    margin: -15px 2px;
+}
+
+.container-flui{
+	margin-top: -20px;
+}
+
+.carousel-caption h2{
+
+font-family: 'Kaushan Script', cursive;
+float: left;
+font-size: 40px;
+margin:20px 10px;
+}
+
+.carousel-caption p{
+
+font-family: 'Permanent Marker', cursive;
+font-size: 30px;
+float: left;
+margin:20px 10px;
+}
+
+.ima h2{
+	font-family: 'Kaushan Script', cursive;
+	text-align: center;
+	color: blue;
+	margin top: 40px;
+	text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.ima p{
+
+font-family: 'Permanent Marker', cursive;
+font-size: 25px;
+font-style: oblique;
+margin: 0px 0px;
+padding: 30px 25px;
+}
+.ima img{
+	width: 100%;
+}
+.Gallery{
+ 	padding: 20px;
+ }
+
+ .Gallery h2{
+	font-family: 'Kaushan Script', cursive;
+	text-align: center;
+	color: blue;
+	text-decoration: underline;
+    text-decoration-color: red;
+ }
+
+ .c{
+ 	padding: 20px 20px;
+ 	background-color: whitesmoke;
+ }
+ .Gallery p{
+ 	float: right;
+ 	margin: -25px 20px;
+ }
+
+ .checked {
+    color: orange;
+}
+
+
+
+.testimonials h1,h4,p{
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bold;
+
+}
+
+.stars{
+	 display:inline-block;
+  position:relative; /*Add this*/
+  left:50%; /*Add this*/
+  transform:translate(-50%,0); /*Add this*/
+}
+
+.imaa{
+	background-color: black;
+	color: white;
+	padding: 20px 38px;
+    margin: 30px 0px;
+}
+
+.imaa ul{
+	list-style-type: none;
+}
+
+.imaa li a{
+	font-weight: 600;
+	font-size: 29px;
+	list-style-type: none;
+	color: white
+}
+
+.imaa img{
+	border-radius: 170px;
+}
