@@ -85,7 +85,7 @@ padding: 30px 25px;
 
 
 
-.testimonials h1,h4,p{
+.testimonials h1,h4{
 	text-transform: uppercase;
 	text-align: center;
 	font-weight: bold;
@@ -112,7 +112,7 @@ padding: 30px 25px;
 
 .imaa li a{
 	font-weight: 600;
-	font-size: 29px;
+	font-size: 16px;
 	list-style-type: none;
 	color: white
 }
